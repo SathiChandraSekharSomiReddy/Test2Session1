@@ -1,1 +1,27 @@
+ gcc -g p2original.c 
+ ./a.out
+Enter the points :
+12
+23
+45
+56
+78
+89
+the points will not form triangle
 
+
+
+
+
+
+
+ gcc -g p2original.c 
+ ./a.out
+Enter the points :
+12
+34
+56
+78
+91
+25
+the points will form triangle
