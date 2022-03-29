@@ -1,1 +1,5 @@
-
+ gcc -g p4original.c 
+ ./a.out
+enter the number:
+9
+the 9 th term fibonaci series is 21
